@@ -12,6 +12,10 @@ filelists/LibriTTS/dev-other
 filelists/LibriTTS/test-clean
 filelists/LibriTTS/test-other
 
+# LJSPEECH
+LJSpeech-1.1/wavs
+LJSpeech-1.1/unseen_clean
+LJSpeech-1.1/unseen_other
 # VSCode configs
 .vscode/
 
